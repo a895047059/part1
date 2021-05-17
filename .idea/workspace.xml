@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac8a6b2c-e4bb-444a-a0ce-fa462bb763dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/简历.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/0.项目.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/1.平台主页.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/10.app管理后台.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/2.总体状态.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/3.专业开设.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/4.产业发展.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/5.电专.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/6.电专2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/7.电专3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/8app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/9.app管理后台.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621259477050</updated>
       <workItem from="1621259481041" duration="1616000" />
+      <workItem from="1621262022270" duration="12000" />
     </task>
     <servers />
   </component>
