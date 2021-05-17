@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac8a6b2c-e4bb-444a-a0ce-fa462bb763dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/简历.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/0.项目.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/1.平台主页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/10.app管理后台.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/2.总体状态.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/3.专业开设.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/4.产业发展.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/5.电专.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/6.电专2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/7.电专3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/8app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/9.app管理后台.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sfN2XP1YgClAlAGp362b00v6Zl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac8a6b2c-e4bb-444a-a0ce-fa462bb763dd" name="Default Changelist" comment="" />
+      <created>1621259477050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621259477050</updated>
+      <workItem from="1621259481041" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
